@@ -1,0 +1,5 @@
+# HLSMP-RegionTp Configuration
+# Thêm world bằng lệnh: /hlsmpregiontp addworld <world> <y-threshold>
+# Hoặc thêm tay vào đây rồi /hlsmpregiontp reload
+
+worlds: {}
