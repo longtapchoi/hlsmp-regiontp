@@ -1,0 +1,6 @@
+# HLSMP-RegionTp Configuration
+# Plugin tự động load các world được quản lý bởi Multiverse-Core
+# Sau khi reload, các world MV sẽ tự xuất hiện ở đây
+
+# worlds: danh sách world MV (tự động generate khi reload)
+worlds: {}
