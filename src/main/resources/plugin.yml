@@ -1,0 +1,16 @@
+name: HLSMP-RegionTp
+version: '1.0.0'
+main: com.hlsmp.regiontp.RegionTpPlugin
+api-version: '1.21'
+description: Auto-teleport players below Y threshold in Multiverse worlds
+authors: [HLSMP]
+
+depend:
+  - Multiverse-Core
+
+commands:
+  hlsmpregiontp:
+    description: HLSMP-RegionTp management command
+    aliases: [regiontp]
+    usage: /hlsmpregiontp <reload>
+    permission: hlsmpregiontp.admin
